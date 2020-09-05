@@ -47,24 +47,24 @@
 		</recipe>
 		<!-- diamond armor section -->
 		<recipe name="diamondBoots" count="1" craft_area="workbench" craft_exp_gain="15">
-			<ingredient name="resourceforgedIron" count="20"/>
+			<ingredient name="resourceForgedSteel" count="20"/>
 			<ingredient name="grindeddiamond" count="2"/>
 		</recipe>
 		<recipe name="diamondChestArmor" count="1" craft_area="workbench" craft_exp_gain="15">
 			<ingredient name="grindeddiamond" count="5"/>
-			<ingredient name="resourceforgedIron" count="30"/>
+			<ingredient name="resourceForgedSteel" count="30"/>
 		</recipe>
 		<recipe name="diamondGloves" count="1" craft_area="workbench" craft_exp_gain="15">
-			<ingredient name="resourceforgedIron" count="20"/>
+			<ingredient name="resourceForgedSteel" count="20"/>
 			<ingredient name="grindeddiamond" count="1"/>
 		</recipe>
 		<recipe name="diamondHelmet" count="1" craft_area="workbench" craft_exp_gain="15">
-			<ingredient name="resourceforgedIron" count="20"/>
+			<ingredient name="resourceForgedSteel" count="20"/>
 			<ingredient name="grindeddiamond" count="3"/>
 		</recipe>
 		<recipe name="diamondLegArmor" count="1" craft_area="workbench" craft_exp_gain="15">
 			<ingredient name="grindeddiamond" count="3"/>
-			<ingredient name="resourceforgedIron" count="30"/>
+			<ingredient name="resourceForgedSteel" count="30"/>
 		</recipe>
 		<recipe name="armorDiamondMaster" count="1" craft_area="workbench" craft_exp_gain="15">
 			<ingredient name="grindeddiamond" count="10"/>
