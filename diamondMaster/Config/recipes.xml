@@ -1,0 +1,84 @@
+<flipvszero88>
+	<append xpath="/recipes">
+		<recipe name="diamondaxe" count="1" craft_area="workbench" tags="meleeToolSteelSetSchematic">
+			<ingredient name="resourceForgedSteel" count="75"/>
+			<ingredient name="grindeddiamond" count="3"/>
+			<ingredient name="resourceWood" count="10"/>
+		</recipe>
+		<recipe name="diamondPickaxe" count="1" craft_area="workbench" tags="perkMiner69r">
+			<ingredient name="resourceForgedSteel" count="100"/>
+			<ingredient name="grindeddiamond" count="3"/>
+			<ingredient name="resourceWood" count="25"/>
+		</recipe>
+		<recipe name="diamondWrench" count="1" craft_area="workbench" tags="perkSalvageOperations,meleeToolSalvageT1WrenchSchematic">
+			<ingredient name="resourceForgedSteel" count="50"/>
+			<ingredient name="grindeddiamond" count="1"/>
+			<ingredient name="resourceWood" count="2"/>
+		</recipe>
+		<recipe name="diamondShovel" count="1" craft_area="workbench" tags="perkMiner69r">
+			<ingredient name="resourceForgedSteel" count="30"/>
+			<ingredient name="grindeddiamond" count="1"/>
+			<ingredient name="resourceWood" count="10"/>
+		</recipe>
+		<recipe name="diamondCrossbow" count="1" craft_area="workbench" tags="gunBowT3CompoundCrossbowSchematic">
+			<ingredient name="resourceForgedSteel" count="50"/>
+			<ingredient name="grindeddiamond" count="4"/>
+			<ingredient name="resourceWood" count="50"/>
+		</recipe>
+		<recipe name="diamondKnife" count="1" craft_area="workbench" tags="perkDeepCuts,meleeWpnBladeT1HuntingKnifeSchematic">
+			<ingredient name="resourceForgedSteel" count="20"/>
+			<ingredient name="grindeddiamond" count="2"/>
+			<ingredient name="resourceWood" count="4"/>
+		</recipe>
+		<recipe name="diamondMachete" count="1" craft_area="workbench" tags="meleeWpnBladeT3MacheteSchematic">
+			<ingredient name="resourceForgedSteel" count="5"/>
+			<ingredient name="grindeddiamond" count="3"/>
+			<ingredient name="resourceWood" count="5"/>
+		</recipe>
+		<recipe name="diamondSledgehammer" count="1" craft_area="workbench" tags="meleeWpnSledgeT3SteelSledgehammerSchematic">
+			<ingredient name="resourceForgedSteel" count="25"/>
+			<ingredient name="grindeddiamond" count="4"/>
+			<ingredient name="resourceWood" count="10"/>
+		</recipe>
+		<recipe name="ammoCrossbowBoltDiamond" count="25" craft_area="workbench" tags="perkRangersAPAmmo">
+			<ingredient name="resourceWood" count="25"/>
+			<ingredient name="resourceFeather" count="25"/>
+			<ingredient name="grindeddiamond" count="1"/>
+		</recipe>
+		<!-- diamond armor section -->
+		<recipe name="diamondBoots" count="1" craft_area="workbench" craft_exp_gain="15">
+			<ingredient name="resourceforgedIron" count="20"/>
+			<ingredient name="grindeddiamond" count="2"/>
+		</recipe>
+		<recipe name="diamondChestArmor" count="1" craft_area="workbench" craft_exp_gain="15">
+			<ingredient name="grindeddiamond" count="5"/>
+			<ingredient name="resourceforgedIron" count="30"/>
+		</recipe>
+		<recipe name="diamondGloves" count="1" craft_area="workbench" craft_exp_gain="15">
+			<ingredient name="resourceforgedIron" count="20"/>
+			<ingredient name="grindeddiamond" count="1"/>
+		</recipe>
+		<recipe name="diamondHelmet" count="1" craft_area="workbench" craft_exp_gain="15">
+			<ingredient name="resourceforgedIron" count="20"/>
+			<ingredient name="grindeddiamond" count="3"/>
+		</recipe>
+		<recipe name="diamondLegArmor" count="1" craft_area="workbench" craft_exp_gain="15">
+			<ingredient name="grindeddiamond" count="3"/>
+			<ingredient name="resourceforgedIron" count="30"/>
+		</recipe>
+		<recipe name="armorDiamondMaster" count="1" craft_area="workbench" craft_exp_gain="15">
+			<ingredient name="grindeddiamond" count="10"/>
+			<ingredient name="Mpaper" count="30"/>
+		</recipe>
+		<!-- better gems section -->
+		<recipe name="grindeddiamond" count="1" craft_area="workbench" craft_time="300" tags="workbenchCrafting">
+			<ingredient name="resourceRawDiamond" count="2"/>
+		</recipe>
+		<recipe name="GoldIngot" count="1" craft_area="workbench" craft_time="600" tags="workbenchCrafting">
+			<ingredient name="resourceGoldNugget" count="50"/>
+		</recipe>
+		<recipe name="SilverIngot" count="1" craft_area="workbench" craft_time="420" tags="workbenchCrafting">
+			<ingredient name="resourceSilverNugget" count="50"/>
+		</recipe>
+	</append>
+</flipvszero88>
