@@ -1,21 +1,21 @@
 <flipvszero88>
 	<append xpath="/recipes">
-		<recipe name="diamondaxe" count="1" craft_area="workbench" tags="meleeToolSteelSetSchematic">
+		<recipe name="fireaxeDiamond" count="1" craft_area="workbench" tags="meleeToolSteelSetSchematic">
 			<ingredient name="resourceForgedSteel" count="75"/>
 			<ingredient name="grindeddiamond" count="3"/>
 			<ingredient name="resourceWood" count="10"/>
 		</recipe>
-		<recipe name="diamondPickaxe" count="1" craft_area="workbench" tags="perkMiner69r">
+		<recipe name="pickaxeDiamond" count="1" craft_area="workbench" tags="perkMiner69r">
 			<ingredient name="resourceForgedSteel" count="100"/>
 			<ingredient name="grindeddiamond" count="3"/>
 			<ingredient name="resourceWood" count="25"/>
 		</recipe>
-		<recipe name="diamondWrench" count="1" craft_area="workbench" tags="perkSalvageOperations,meleeToolSalvageT1WrenchSchematic">
+		<recipe name="wrenchDiamond" count="1" craft_area="workbench" tags="perkSalvageOperations,meleeToolSalvageT1WrenchSchematic">
 			<ingredient name="resourceForgedSteel" count="50"/>
 			<ingredient name="grindeddiamond" count="1"/>
 			<ingredient name="resourceWood" count="2"/>
 		</recipe>
-		<recipe name="diamondShovel" count="1" craft_area="workbench" tags="perkMiner69r">
+		<recipe name="shovelDiamond" count="1" craft_area="workbench" tags="perkMiner69r">
 			<ingredient name="resourceForgedSteel" count="30"/>
 			<ingredient name="grindeddiamond" count="1"/>
 			<ingredient name="resourceWood" count="10"/>
