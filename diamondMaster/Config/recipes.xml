@@ -68,7 +68,7 @@
 		</recipe>
 		<recipe name="armorDiamondMaster" count="1" craft_area="workbench" craft_exp_gain="15">
 			<ingredient name="grindeddiamond" count="10"/>
-			<ingredient name="Mpaper" count="30"/>
+			<ingredient name="resourcePaper" count="30"/>
 		</recipe>
 		<!-- better gems section -->
 		<recipe name="grindeddiamond" count="1" craft_area="workbench" craft_time="300" tags="workbenchCrafting">
